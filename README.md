@@ -73,6 +73,7 @@ README.md
 clases/
   clase-01-html-semantico.md
   clase-02-formularios-seo.md
+  clase-03-css-base.md
 
 practica/
   practica-01-estructura-html/
