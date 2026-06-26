@@ -1,25 +1,19 @@
-# Clase 3: CSS Base, Variables Globales y Arquitectura del Box Model
+Clase 3: CSS Base, Variables Globales y Arquitectura del Box Model
+Objetivos de la clase
+Sincronizar y configurar el repositorio de trabajo en un entorno local alternativo.
 
-## Objetivos de la clase
-* Sincronizar y configurar el repositorio de trabajo en un entorno local alternativo.
-* Comprender el mecanismo de vinculación de hojas de estilo externas mediante la manipulación del bloque head.
-# Clase 3: CSS Base, Variables Globales y Arquitectura del Box Model
+Comprender el mecanismo de vinculación de hojas de estilo externas mediante la manipulación del bloque head.
 
-## Objetivos de la clase
-* Sincronizar y configurar el repositorio de trabajo en un entorno local alternativo.
-* Comprender el mecanismo de vinculación de hojas de estilo externas mediante la manipulación del bloque head.
-* Implementar Custom Properties (Variables CSS) para centralizar la identidad visual de la aplicación.
-* Dominar los componentes esenciales del Box Model (márgenes, rellenos, bordes y dimensiones) para estructurar contenedores, tablas financieras y formularios accesibles.
+Implementar Custom Properties (Variables CSS) para centralizar la identidad visual de la aplicación.
 
----
+Dominar los componentes esenciales del Box Model (márgenes, rellenos, bordes y dimensiones) para estructurar contenedores, tablas financieras y formularios accesibles.
 
-## 1. Configuración y Sincronización del Entorno Local
-
+1. Configuración y Sincronización del Entorno Local
 Para garantizar la portabilidad del proyecto fuera de entornos cloud, se ejecutó el flujo completo de clonación y verificación del repositorio en un entorno local:
 
-```bash
+Bash
 # Clonación del repositorio remoto al almacenamiento local
-git clone [https://github.com/popolo77/materia-2-html-css-figma-landing.git](https://github.com/popolo77/materia-2-html-css-figma-landing.git)
+git clone https://github.com/popolo77/materia-2-html-css-figma-landing.git
 
 # Acceso al directorio raíz del proyecto
 cd materia-2-html-css-figma-landing
@@ -99,7 +93,7 @@ padding: Introduce aire interno en las secciones para evitar que los elementos c
 box-shadow: Aumenta la profundidad visual emulando un diseño de tarjetas en capas elevadas.
 
 5. Diseño y Estilización Avanzada de Tablas de Datos
-La tabla de "Simulación de Rendimiento Semanal" se formateó para presentar información financiera compleja de forma clara y ordenada, anulando los estilos por defecto del navegador:
+La tabla de "Simulación de Rendimiento Semana" se formateó para presentar información financiera compleja de forma clara y ordenada, aunlando los estilos por defecto del navegador:
 
 CSS
 table {
