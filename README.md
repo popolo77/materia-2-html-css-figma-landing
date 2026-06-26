@@ -43,7 +43,7 @@ Estructura de contenidos organizados por unidades temáticas para un total de 48
 
 ### Contenidos trabajados hasta la fecha
 
-DDurante esta materia se estructuraron los cimientos de la landing page de Uber Tracker mediante los siguientes conceptos técnicos:
+Durante esta materia se estructuraron los cimientos de la landing page de Uber Tracker mediante los siguientes conceptos técnicos:
 * Estructura básica y obligatoria de un documento HTML5 (html, head, body).
 * Arquitectura de la información mediante etiquetas semánticas estructurales (header, main, nav, section, footer).
 * Jerarquía de contenidos con títulos (h1 a h6), párrafos, listas y enlaces adaptados al ecosistema del conductor.
@@ -60,6 +60,7 @@ DDurante esta materia se estructuraron los cimientos de la landing page de Uber 
 
 ### Estructura del repositorio
 
+```text
 README.md
 
 clases/
