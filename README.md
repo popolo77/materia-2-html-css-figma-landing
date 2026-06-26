@@ -3,7 +3,7 @@
 
 ### Programa Complementario de Formación Frontend - UTN
 
-Repositorio académico-profesional correspondiente a la Materia 2: HTML, CSS, Responsive Design y Figma Handoff, dentro del Programa Complementario de Formación Frontend diseñado para complementar la Tecnicatura Universitaria en Programación de la UTN[cite: 1].
+Repositorio académico-profesional correspondiente a la Materia 2: HTML, CSS, Responsive Design y Figma Handoff, dentro del Programa Complementario de Formación Frontend diseñado para complementar la Tecnicatura Universitaria en Programación de la UTN.
 
 **Objetivo:** Construir interfaces web profesionales, interactivas, accesibles y totalmente responsivas a partir de maquetas de diseño en Figma, utilizando HTML5 semántico y CSS moderno, consolidando el flujo de desarrollo y el despliegue progresivo[cite: 1].
 
