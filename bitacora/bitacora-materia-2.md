@@ -25,3 +25,14 @@ Aprendizajes principales
 Evidencia generada
 * Archivo clases/clase-02-formularios-seo.md creado.
 * Sección de contacto, formulario de alta y tabla de simulación de rendimiento semanal integrados en index.html.
+
+Clase 3 - CSS Base y Variables Globales
+En esta clase se desvinculó el diseño del archivo estructural enlazando una hoja de estilos externa, se definieron variables de identidad visual y se aplicaron reglas de Box Model a contenedores, tablas y formularios.
+Aprendizajes principales
+* Creación y enlace de archivos CSS externos mediante la etiqueta link en el head.
+* Uso del selector global :root para declarar Custom Properties (variables CSS) reutilizables y escalables.
+* Manipulación de la anatomía del Box Model: uso estratégico de padding para aire interno, margin para separación externa y box-sizing: border-box para prevenir desbordamientos involuntarios.
+* Aplicación de pseudo-clases de interacción como :hover en filas de tablas y :focus en elementos de formulario para mejorar la accesibilidad visual.
+Evidencia generada
+* Archivo practica/practica-01-estructura-html/styles.css creado, estructurado y conectado.
+* Interfaz de la landing page adaptada con fondo corporativo, tarjetas de sección alineadas, tabla financiera estilizada y formulario de contacto responsivo.
